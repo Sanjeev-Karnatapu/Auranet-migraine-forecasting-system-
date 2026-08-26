@@ -104,9 +104,3 @@ The script automatically generates:
 
 > TabPFN demonstrated superior generalization and accuracy for migraine forecasting.
 
----
-
-## Author
-**Saktheshwaran T**  
-Vellore Institute of Technology, Vellore  
-
